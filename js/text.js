@@ -1,0 +1,3 @@
+SVGAnimatedPreserveAspectRatio
+encodeURIComponent
+DataTransfer
